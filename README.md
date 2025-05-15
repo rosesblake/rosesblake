@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I build full-stack apps with React, Node.js, Express, PostgreSQL, and Prisma. Projects like NextSet showcase secure auth with HttpOnly cookies, Google Maps and Spotify API integration, and responsive UI. I focus on clean code, real-world functionality, and production-ready architecture.</p>
+<p align="left">I build full-stack web apps using React, Next.js, TypeScript, Node.js, and PostgreSQL. My projects like **NextSet** showcase secure auth with HttpOnly cookies, Google Maps and Spotify API integration, and responsive UIs built with TailwindCSS and Prisma.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since I learned every “small fix” needs a rollback  <br>📚 Currently learning SwiftUI to build the mobile version of NextSet  <br>🎯 Goals: Launch cross-platform support for NextSet and land a full-time dev role  <br>🎲 Fun fact: Prototyping a 2D mini-game for an artist release — side projects keep my skills sharp</p>
+<p align="left">🛠️ Building a dev collab platform with another engineer (FastAPI, Next.js/TypeScript, Swift for mobile)  <br>🧠 Leveling up in Next.js and TypeScript  <br>🚀 Goal: Launch cross-platform support for NextSet and join a product-focused team  <br>🎲 Side project: A 2D mini-game tied to an artist release  <br>✨ Creating bugs since I learned every “small fix” needs a rollback</p>
 
 ###
 
@@ -23,13 +23,15 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/swift/F05138" height="40" alt="swift logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
 </div>
 
 ###
@@ -44,6 +46,8 @@
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
   <img width="12" />
